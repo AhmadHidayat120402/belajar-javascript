@@ -18,5 +18,6 @@ if(hari == 1){
 }else{
     console.log('hari ini adalah ahad');
 }
+
 // console.log(`hari ini adalah ${hari}` )
 
